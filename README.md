@@ -1,4 +1,3 @@
-Hello world
 # Awesome Data Science
 Short introductions for data science libraries
 
