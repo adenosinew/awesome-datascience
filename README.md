@@ -1,5 +1,5 @@
 # Awesome Data Science
-Short introductions for data science libraries
+Short introductions for data science libraries (Ben)
 
 **Only one tutorial for each library**
 
