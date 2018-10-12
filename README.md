@@ -47,4 +47,4 @@ python path: 用which python在terminal下找到path粘贴过来
 
 回到ipynb文件，在VS Code左下看python版本，不是3.6则点击左下角python文字，选择3.6  
 在左边EXPLORER栏找到ipynb文件右键，选AI:view in jupyter server  
-(目前不知道问什么3.5在VS Code里不能启动server)
+(目前不知道为什么3.5在VS Code里不能启动server)
